@@ -1,0 +1,11 @@
+{
+  "name": "sort-arr-asc",
+  "version": "1.0.0",
+  "description": "Sort by length - For sorting an Array of strings from shortest to longest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sudhanshu Singh",
+  "license": "ISC"
+}
