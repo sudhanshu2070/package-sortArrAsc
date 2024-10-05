@@ -1,14 +1,16 @@
-# package-sortArrAsc
+# sort-arr-asc
 
-This package is - For sorting an Array of strings from shortest to longest
+A simple and efficient package for sorting an array of strings from shortest to longest.
 
+## Features
 
-## Usage/Examples
+- **Easy to Use**: It allows you to sort strings with minimal setup.
+- **Flexible**: Works with arrays containing empty strings.
+- **Lightweight**: Minimal dependencies to keep your project lean.
 
-```javascript
-const sortArrAsc = require('sort-arr-asc');
+## Installation
 
-// const nums = [1, 11, 111, 1, 1212, 1219823];
-const nums = ["hey","he","heya","heyam",""];
-const sortedNums = sortArrAsc(nums);
-console.log(sortedNums);
+To install the package, run the following command:
+
+```bash
+npm install sort-arr-asc
